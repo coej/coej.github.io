@@ -1,3 +1,3 @@
 # coej.github.io
 
-Based on Iron Summit Media's Freelancer template for Bootstrap.
+Bootstrap theme by Thomas Park (Bootswatch).
